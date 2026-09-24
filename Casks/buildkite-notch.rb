@@ -7,7 +7,7 @@ cask "buildkite-notch" do
   desc "Notch that tracks Buildkite builds and deploys"
   homepage "https://github.com/nickolasdeluca/buildkite-notch"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "BuildkiteNotch.app"
 

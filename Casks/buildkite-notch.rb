@@ -1,6 +1,6 @@
 cask "buildkite-notch" do
-  version "0.1.0"
-  sha256 "e61582fc45ad360d047a08b471c9bc204d673caf3fe331d6e5ebd63224778f8f"
+  version "0.2.0"
+  sha256 "b878ea5eb70da28a8406ce155525d51b011d7799177e1644ce892f77f2bdb653"
 
   url "https://github.com/nickolasdeluca/buildkite-notch/releases/download/v#{version}/BuildkiteNotch-#{version}.zip"
   name "Buildkite Notch"
